@@ -11,7 +11,7 @@ long in my room. Not the best Saturday ever, but I'm still alive at least :-)
 
 Environment: Debian testing 64-bit with GCC 5.2 and Clang 3.7.
 
-IDE? Vim, of corse!
+IDE? Vim, of course!
 
 Usage:
 ```
